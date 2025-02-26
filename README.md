@@ -3,8 +3,7 @@
 - 🌱 I have finished an intensive JustIT 8-week Data Technician Bootcamp course after spending more that a decasde in System Administrator Role.
 - 💞️ I’m looking to collaborate on real life data analsis projects
 - 📫 Feel free to contact me via 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am intersted in hiking and enjoy being a backpacker
 
 <!---
 pliong-justitbootcamp/pliong-justitbootcamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
